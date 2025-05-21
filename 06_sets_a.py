@@ -13,4 +13,5 @@ print(len(my_other_set))
 
 my_other_set.add('MoureDev')
 
-print(my_other_set)
+print(my_other_set) # Un set no es una estructura ordenada
+print(my_set)
